@@ -56,7 +56,7 @@ SESSION_SECRET=your_super_secret_key_here
 
 # Запуск приложения
 npm start
-
+```
 ## Инструкции по установке и тестированию
 
 
