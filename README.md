@@ -42,7 +42,7 @@
 PORT=8080 \
 NODE_ENV=production \
 LOG_LEVEL=debug \
-npm start
+npm start```
 
 Или с использованием .env файла:
 
@@ -54,7 +54,7 @@ LOG_LEVEL=debug
 SESSION_SECRET=your_super_secret_key_here
 
 # Запуск приложения
-npm start
+npm start```
 
 ## Инструкции по установке и тестированию
 
