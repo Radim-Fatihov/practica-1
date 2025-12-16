@@ -43,7 +43,7 @@ PORT=8080 \
 NODE_ENV=production \
 LOG_LEVEL=debug \
 npm start
-
+```
 
 Или с использованием .env файла:
 
